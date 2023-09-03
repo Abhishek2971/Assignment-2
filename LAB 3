@@ -6,7 +6,7 @@
  list1.append(marks) 
  print("List containing marks of student: ", list1) 
  print("-"*50)
- sum = 0 # Initialize 
+ sum = 0 
  for i in list1: 
  sum += i 
  print("Sum of all the elements in the list: ", sum) 
